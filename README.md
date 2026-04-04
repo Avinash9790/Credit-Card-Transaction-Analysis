@@ -3,12 +3,14 @@
 **End-to-end analysis** of credit card spending patterns across **Indian customers** using Python, SQL, and Power BI.
 
 
-## 📁 Repository Contents
-Credit_Card_Analysis.ipynb (EDA + Cleaning)
-Credit Card Transactionss.pbix (Interactive dashboards)
-Credit Card Transactions.sql (Production SQL)
-Dashboard.png/ (PNG visuals) 
-README.md (Documentation)
+
+## 📁 Files (4 total)
+- `Credit_Card.ipynb` — EDA & visualization  
+- `Credit Card Cleaning.ipynb` — Data prep
+- `Credit Card EDA.ipynb` — Analysis
+- `Dashboard.png` — Power BI results
+
+**Tech:** MySQL, Python (Pandas/Seaborn), Power BI
 
 
 ## 📊 Dataset Overview

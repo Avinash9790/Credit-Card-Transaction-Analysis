@@ -4,9 +4,12 @@
 
 **Tech:** MySQL, Python (Pandas/Seaborn), Power BI
 
-**Dataset**: [Kaggle Credit Card Spending India](https://www.kaggle.com/datasets/rohanrao/credit-card-spending-habits-in-india)
+
 
 ## 📊 Dataset Overview
+
+**Dataset**: [Kaggle Credit Card Spending India](https://www.kaggle.com/datasets/rohanrao/credit-card-spending-habits-in-india)
+
 - **Source**: Kaggle 'Analyzing Credit Card Spending Habits in India'
 - **Size**: Multiple CSV files with transaction-level data
 - **Key columns**: Customer ID, Transaction Amount, Spending Category, Month, City, Age Group

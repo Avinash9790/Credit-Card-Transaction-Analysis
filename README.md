@@ -2,6 +2,10 @@
 
 **End-to-end analysis** of credit card spending patterns across **Indian customers** using Python, SQL, and Power BI.
 
+**Tech:** MySQL, Python (Pandas/Seaborn), Power BI
+
+**Dataset**: [Kaggle Credit Card Spending India](https://www.kaggle.com/datasets/rohanrao/credit-card-spending-habits-in-india)
+
 **Complete pipeline:** Raw data → SQL cleaning → EDA → Power BI dashboard
 
 ## 📁 Files (4 total)
@@ -11,9 +15,6 @@
 - `Dashboard.png` — Power BI results
 
 ![Dashboard Preview](<Dashboard.png>)
-
-**Tech:** MySQL, Python (Pandas/Seaborn), Power BI
-
 
 ## 📊 Dataset Overview
 - **Source**: Kaggle 'Analyzing Credit Card Spending Habits in India'
@@ -73,6 +74,4 @@ Average transaction value by age group
 ## 🚀 Business Impact
 **₹2.5M+ potential revenue uplift** through targeted offers to top 10% spenders.
 
----
-**Dataset**: [Kaggle Credit Card Spending India](https://www.kaggle.com/datasets/rohanrao/credit-card-spending-habits-in-india)
 ⭐ **Star if helpful!**

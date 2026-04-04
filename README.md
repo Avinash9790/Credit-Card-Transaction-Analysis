@@ -6,6 +6,11 @@
 
 **Dataset**: [Kaggle Credit Card Spending India](https://www.kaggle.com/datasets/rohanrao/credit-card-spending-habits-in-india)
 
+## 📊 Dataset Overview
+- **Source**: Kaggle 'Analyzing Credit Card Spending Habits in India'
+- **Size**: Multiple CSV files with transaction-level data
+- **Key columns**: Customer ID, Transaction Amount, Spending Category, Month, City, Age Group
+
 **Complete pipeline:** Raw data → SQL cleaning → EDA → Power BI dashboard
 
 ## 📁 Files (4 total)
@@ -15,11 +20,6 @@
 - `Dashboard.png` — Power BI results
 
 ![Dashboard Preview](<Dashboard.png>)
-
-## 📊 Dataset Overview
-- **Source**: Kaggle 'Analyzing Credit Card Spending Habits in India'
-- **Size**: Multiple CSV files with transaction-level data
-- **Key columns**: Customer ID, Transaction Amount, Spending Category, Month, City, Age Group
 
 ## 🎯 Business Problem
 **Identify high-value customers** and **spending patterns** to:

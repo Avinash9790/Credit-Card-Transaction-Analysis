@@ -8,9 +8,6 @@
 ├── Credit Card Transactionss.pbix (Interactive dashboards)
 ├── Credit Card Transactions.sql (Production SQL)
 ├── Dashboard.png/ (PNG visuals) 
-
-![Dashboard Preview](<Dashboard.png>)
-
 └── README.md (Documentation)
 
 
@@ -75,3 +72,5 @@ Average transaction value by age group
 ---
 **Dataset**: [Kaggle Credit Card Spending India](https://www.kaggle.com/datasets/rohanrao/credit-card-spending-habits-in-india)
 ⭐ **Star if helpful!**
+
+![Dashboard Preview](Dashboard%20.png)

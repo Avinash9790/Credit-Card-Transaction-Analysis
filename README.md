@@ -7,8 +7,12 @@
 ├── Credit_Card_Analysis.ipynb (EDA + Cleaning)
 ├── Credit Card Transactionss.pbix (Interactive dashboards)
 ├── Credit Card Transactions.sql (Production SQL)
-├── Dashboard.png/ (PNG visuals) ![Dashboard Preview](<Dashboard.png>)
+├── Dashboard.png/ (PNG visuals) 
+
+![Dashboard Preview](<Dashboard.png>)
+
 └── README.md (Documentation)
+
 
 ## 📊 Dataset Overview
 - **Source**: Kaggle 'Analyzing Credit Card Spending Habits in India'

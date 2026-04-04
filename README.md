@@ -4,11 +4,11 @@
 
 
 ## 📁 Repository Contents
-├── Credit_Card_Analysis.ipynb (EDA + Cleaning)
-├── Credit Card Transactionss.pbix (Interactive dashboards)
-├── Credit Card Transactions.sql (Production SQL)
-├── Dashboard.png/ (PNG visuals) 
-└── README.md (Documentation)
+Credit_Card_Analysis.ipynb (EDA + Cleaning)
+Credit Card Transactionss.pbix (Interactive dashboards)
+Credit Card Transactions.sql (Production SQL)
+Dashboard.png/ (PNG visuals) 
+README.md (Documentation)
 
 
 ## 📊 Dataset Overview
@@ -73,4 +73,4 @@ Average transaction value by age group
 **Dataset**: [Kaggle Credit Card Spending India](https://www.kaggle.com/datasets/rohanrao/credit-card-spending-habits-in-india)
 ⭐ **Star if helpful!**
 
-![Dashboard Preview](Dashboard%20.png)
+![Dashboard Preview](<Dashboard.png>)

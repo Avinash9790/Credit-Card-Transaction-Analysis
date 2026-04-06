@@ -27,9 +27,13 @@ Analyze 26,052 credit card transactions to uncover spending patterns across citi
 
 ## 🎯 Business Problem
 The credit card company has transaction data spanning 2013–2015 across 986 Indian cities. However, the business lacks clarity on:
+
 Where is the money coming from — which cities, card types, and categories drive the most revenue?
+
 Who is spending — what are the behavioral differences between male and female customers?
+
 What are customers spending on — which expense categories are growing or underperforming?
+
 When is spending highest — are there seasonal patterns that can be leveraged?
 
 ## 🧹 Data Cleaning

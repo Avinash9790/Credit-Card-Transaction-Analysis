@@ -147,4 +147,5 @@ Chennai	Travel	Travel agency + airline deals
 12 cities out of 986 drive majority of revenue — over-dependence risk
 
 Invest in Tier 2/3 city expansion using small-city high-avg-spend data as proof of concept
+
 ⭐ **Star if helpful!**

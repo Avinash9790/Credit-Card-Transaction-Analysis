@@ -38,9 +38,13 @@ When is spending highest — are there seasonal patterns that can be leveraged?
 
 ## 🧹 Data Cleaning
 ✅ Handled missing values in transaction amounts
+
 ✅ Standardized city names and categories
+
 ✅ Converted dates to proper format
+
 ✅ Removed duplicate transactions
+
 ✅ Created Age Group and Spending Tier features
 
 
@@ -48,21 +52,16 @@ When is spending highest — are there seasonal patterns that can be leveraged?
 Top 5 Spending Categories:
 
 Entertainment: 28%
+
 Shopping: 22%
+
 Travel: 18%
+
 Dining: 15%
+
 Groceries: 12%
 
 High-spending cities: Mumbai, Delhi, Bangalore
-
-## 💾 SQL Analysis
-Key Queries:
-
-Top spending customers by city
-Monthly spending trends
-Category-wise transaction volume
-High-value customer segmentation
-Average transaction value by age group
 
 
 ## 💡 Key Insights
@@ -85,12 +84,6 @@ Average transaction value by age group
 📅 January 2015 was the highest spend month (₹22.3 Cr) with a festive spike in December 2013 (+11.59% MoM)
 
 👨 Gender spending difference: Females spend most on Bills, Males on Fuel
-
-## 🛠 Solutions Delivered
-✅ Customer segmentation dashboard (Power BI)
-✅ SQL queries for production reporting
-✅ Spending pattern recommendations
-✅ High-value customer targeting strategy
 
 
 💡 Business Solutions

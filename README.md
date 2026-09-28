@@ -18,9 +18,9 @@ Analyze 26,052 credit card transactions to uncover spending patterns across citi
 **Complete pipeline:** Raw data → SQL cleaning → EDA → Power BI dashboard
 
 ## 📁 Files (4 total)
-- `Credit_Card.ipynb` — EDA & visualization  
-- `Credit Card Cleaning.ipynb` — Data prep
-- `Credit Card EDA.ipynb` — Analysis
+- `Credit_Card_Analysis.ipynb` — Data Cleaning, EDA & visualization  
+- `Credit Card Transactions.pbix` — Power BI
+- `Credit Card Transactions.sql` — SQL Analysis
 - `Dashboard.png` — Power BI results
 
 ![Dashboard Preview](<Dashboard.png>)
